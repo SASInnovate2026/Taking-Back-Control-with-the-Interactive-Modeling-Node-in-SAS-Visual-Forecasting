@@ -1,2 +1,4 @@
 # Taking-Back-Control-with-the-Interactive-Modeling-Node-in-SAS-Visual-Forecasting
-Taking Back Control with the Interactive Modeling Node in SAS® Visual Forecasting
+
+## Abstract
+Visual Forecasting, within SAS® Model Studio, provides users with the functionality to perform automatic, large-scale forecasting. Automatic model generation is part of this process. From ESM to ARIMAX, to UCM models, SAS® Visual Forecasting will take the lead and generate new model specifications that accommodate the signal components in your data. On occasion, there will be time series that will need extra focus due to unique circumstances. Will we be able to take back model generation control from SAS® Visual Forecasting if these unique times surface? Yes! Enter Visual Forecasting’s super node: the Interactive Modeling Node. In this talk, we will explore the capabilities of the Interactive Modeling Node and how we can explore the series, adjust current models, and create models from scratch all from within one node. 
